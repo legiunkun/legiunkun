@@ -1,0 +1,22 @@
+#include <iostream>
+using namespase std;
+main (){
+
+int tanggal,bulan,tahun;
+string nama;
+
+cout << "Masukan Nama Anda :";
+cin >> nama<<endl;
+
+cout << "Masukan Tanggal :";
+cin >> tanggal<<endl;
+
+cout << "Masukan Bulan :";
+cin >> bulan<<endl;
+
+cout << "Masukan Tahun :";
+cin >> tahun<<endl;
+
+cout <<"Nama Anda Adalah <<nama\n;
+cout <<"Masuk Pada : "<<tanggal<<""<<bulan<<""<<tahun;
+}
